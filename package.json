@@ -1,0 +1,23 @@
+{
+  "name": "mahoulist",
+  "author": "Sean Wilson",
+  "version": "0.0.0",
+  "description": "Manage your animes yo",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanc/mahoulist"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "private": false,
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "eslint-config-google": "^0.6.0"
+  }
+}
